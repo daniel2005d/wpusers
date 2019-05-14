@@ -13,6 +13,8 @@ python3 scan.py --help
 <ul>
 <li>
 -u --url : Domain to Scan
+</li>
+<li>
 -m --maxusers: Set the enumerate max users
 </li>
 </ul>
